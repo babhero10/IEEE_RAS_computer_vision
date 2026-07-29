@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+videos/*
+soluations
+
+# Session (lab) stock images/videos - large binary files, not needed in repo.
+# The assignment's problem images in assignment/assets/ are intentionally
+# NOT ignored - students need those files.
+lab1/session/images/
+lab1/session/videos/
